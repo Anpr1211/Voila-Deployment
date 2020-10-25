@@ -3,6 +3,8 @@
 # Voila-Deployment-master/Descriptive_Analysis.ipynb: 6
 ipython == 7.13.0
 
+ipykernel
+
 # Voila-Deployment-master/Descriptive_Analysis.ipynb: 5
 matplotlib == 3.1.3
 
